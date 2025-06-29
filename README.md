@@ -37,12 +37,12 @@ Run the executable file (AVOID FULL SCREEN) to start playing
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1DIYARyKkknpFVp53lJh5D5Ks6rh1C0b9/view?usp=drive_link)
+![Image](https://github.com/user-attachments/assets/e939e29b-d2b9-442e-af10-6744dd27602d)
 
-![App Screenshot](https://drive.google.com/file/d/1DIYARyKkknpFVp53lJh5D5Ks6rh1C0b9/view?usp=drive_link)
+![Image](https://github.com/user-attachments/assets/cf7b67c5-821f-4710-8d87-d857ecef8767)
 
-![App Screenshot](https://drive.google.com/file/d/1DIYARyKkknpFVp53lJh5D5Ks6rh1C0b9/view?usp=drive_link)
+![Image](https://github.com/user-attachments/assets/9cc0b682-ee42-4f28-b8a4-1b64c390127e)
 
-![App Screenshot](https://drive.google.com/file/d/1DIYARyKkknpFVp53lJh5D5Ks6rh1C0b9/view?usp=drive_link)
+![Image](https://github.com/user-attachments/assets/d0dbbea6-0666-44a0-a095-aba5832e1eed)
 
 
